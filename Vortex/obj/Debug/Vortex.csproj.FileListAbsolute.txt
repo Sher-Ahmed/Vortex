@@ -1,0 +1,16 @@
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\bin\Debug\Vortex.exe.config
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\bin\Debug\Vortex.exe.manifest
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\bin\Debug\Vortex.application
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\bin\Debug\Vortex.exe
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\bin\Debug\Vortex.pdb
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\obj\Debug\Vortex.Lexical_Token_Generator.resources
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\obj\Debug\Vortex.Properties.Resources.resources
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\obj\Debug\Vortex.csproj.GenerateResource.Cache
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\obj\Debug\Vortex.exe.manifest
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\obj\Debug\Vortex.application
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\obj\Debug\Vortex.exe
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\obj\Debug\Vortex.pdb
+C:\Users\Sher Ahmed\Documents\Visual Studio 2013\Projects\Vortex\Vortex\obj\Debug\Vortex.csprojResolveAssemblyReference.cache
+C:\Users\Sher Ahmed\Desktop\Vortex\Vortex\Vortex\bin\Debug\Vortex.exe.config
+C:\Users\Sher Ahmed\Desktop\Vortex\Vortex\Vortex\obj\Debug\Vortex.exe
+C:\Users\Sher Ahmed\Desktop\Vortex\Vortex\Vortex\obj\Debug\Vortex.pdb
