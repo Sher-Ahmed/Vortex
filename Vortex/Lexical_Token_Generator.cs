@@ -25,7 +25,6 @@ namespace Vortex
             {
                TokensTxtBox.Text = TokensTxtBox.Text + element + "\n";
             }
-            
         }
         private void SourceTxtBox_TextChanged(object sender, EventArgs e)
         {

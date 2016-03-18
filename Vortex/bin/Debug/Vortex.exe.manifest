@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Vortex.exe" size="1636864">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Vortex.exe" size="1637376">
       <assemblyIdentity name="Vortex" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>T3P+9evCM54+7CuUNbnVNsQRgDdbYs1NOtpfomxG0TE=</dsig:DigestValue>
+        <dsig:DigestValue>F1WuHSs/HdcGgnwuUaAA1mL7bFyw0G4NNnQPZRnq5Oo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

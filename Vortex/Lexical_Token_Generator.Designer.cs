@@ -49,6 +49,7 @@
             // 
             // SourceTxtBox
             // 
+            this.SourceTxtBox.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SourceTxtBox.Location = new System.Drawing.Point(13, 156);
             this.SourceTxtBox.Name = "SourceTxtBox";
             this.SourceTxtBox.Size = new System.Drawing.Size(431, 303);
@@ -58,6 +59,7 @@
             // 
             // TokensTxtBox
             // 
+            this.TokensTxtBox.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TokensTxtBox.Location = new System.Drawing.Point(470, 156);
             this.TokensTxtBox.Name = "TokensTxtBox";
             this.TokensTxtBox.Size = new System.Drawing.Size(431, 303);
